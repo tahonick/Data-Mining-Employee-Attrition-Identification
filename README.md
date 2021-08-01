@@ -4,7 +4,7 @@ Gallup states that attrition costs US companies at least one trillion dollars an
 
 ## Our objectives for this project:
 
- - Study data for employees who both leave and stay to gain a better understanding of factors that contribute to attrition
+ - Apply data mining methods on data for employees who both leave and stay to gain a better understanding of factors that contribute to attrition
  - Attempt to develop a reasonable strategy for companies to minimize attrition
 
 ## Goals and findings:
