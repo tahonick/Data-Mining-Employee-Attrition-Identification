@@ -2,12 +2,12 @@
 
 Gallup states that attrition costs US companies at least one trillion dollars annually! We studied the publicly available IBM HR dataset, available via Kaggle to apply a variety of data mining methods to identify groups of employees most likely to leave the fictitious company.
 
-**Our objectives for this project:**
+## Our objectives for this project:
 
  - Study data for employees who both leave and stay to gain a better understanding of factors that contribute to attrition
  - Attempt to develop a reasonable strategy for companies to minimize attrition
 
-**Goals and findings:**
+## Goals and findings:
 
 Understand which employees are leaving, in terms of characteristics and experiences
  - Logistic Regression was our best performing model and suggested the greatest predictor of an individual leaving included:
