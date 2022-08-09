@@ -11,7 +11,7 @@ Gallup states that attrition costs US companies at least one trillion dollars an
 
 Understand which employees are leaving, in terms of characteristics and experiences
  - Logistic Regression was our best performing model and suggested the greatest predictor of an individual leaving included:
-   - Eligibility for Overtime (i.e. Salary vs Hourly Employee)
+   - Eligibility for Overtime (i.e. Salary versus Hourly Employee)
    - Age
    - Marital Status
  - The data indicated younger, non-married, hourly employees tend to leave at greater rates than other individuals.
